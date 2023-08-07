@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ABP01
-- 👀 I’m interested in la programmation
+- 👀 I’m interested in programmation
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...komlanbogue@gmail.com
