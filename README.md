@@ -1,5 +1,5 @@
 <h1 align="center">Bonjour 👋, je m'appelle Armel Bogue</h1>
-<h3 align="center">Je suis un étudiant en génie logiciel et des systèmes d'information (GLSI) passionné par la résolution de problèmes complexes et la création de solutions innovantes. J'ai une solide expérience en programmation et en développement de logiciels, ainsi qu'une connaissance des langages de programmation tels que Python, Java etc... En tant qu'étudiant en génie logiciel, je suis constamment à la recherche de nouvelles opportunités pour améliorer mes compétences et acquérir de nouvelles connaissances. .</h3>
+<h3 align="center">I am a Software and Information Systems Engineering (GLSI) student passionate about solving complex problems and creating innovative solutions. I have a strong background in programming and software development, as well as knowledge of programming languages ​​such as Python, Java etc... As a Software Engineering student, I am constantly looking for new opportunities to improve my skills and acquire new knowledge.</h3>
 
 <img align="right" alt="Codaging" width="400" src="https://static.wixstatic.com/media/bbe642_62414e50bef34ce28db1afabf55f17ec~mv2.gif">
 
