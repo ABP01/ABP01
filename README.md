@@ -1,7 +1,7 @@
 <h1 align="center">Bonjour 👋, je m'appelle Armel Bogue</h1>
 <h3 align="center">I am a Software and Information Systems Engineering (GLSI) student passionate about solving complex problems and creating innovative solutions. I have a strong background in programming and software development, as well as knowledge of programming languages ​​such as Python, Java etc... As a Software Engineering student, I am constantly looking for new opportunities to improve my skills and acquire new knowledge.</h3>
 
-<img align="right" alt="Codaging" width="400" src="https://static.wixstatic.com/media/bbe642_62414e50bef34ce28db1afabf55f17ec~mv2.gif">
+<img align="right" alt="Codaging" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile- trophy.vercel.app/?username=abp01" alt="abp01" /></a> </p>
 
