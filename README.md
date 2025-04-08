@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 J'apprends actuellement le Développement mobile<br><br>📫 Comment me joindre komlanbogue@gmail .com<br><br>⚡ Fait amusant j'aime toucher aux nouvelles technologies😉
+🌱 J'apprends actuellement le Développement mobile<br><br>📫 Comment me joindre komlanbogue@gmail.com<br><br>⚡ Fait amusant j'aime toucher aux nouvelles technologies😉
 
 
 ## 🌐 Socials:
